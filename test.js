@@ -1,1 +1,1 @@
-alert(1);
+console.log(Game.player_name);
